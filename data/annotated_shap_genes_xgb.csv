@@ -1,0 +1,196 @@
+Feature,Mean_SHAP_Value,ARO Accession,Resistance Mechanism,AMR Gene Family
+KPC-1,2.226190789,,,
+KPC-3,0.61519152,ARO:3002313,KPC-3 is a beta-lactamase found in Klebsiella pneumoniae.,KPC-3
+OXA-1,0.526807588,ARO:3001396,OXA-1 is a beta-lactamase found in E. coli.,OXA-1
+CTX-M-15,0.433423151,ARO:3001878,CTX-M-15 is a beta-lactamase found in the Enterobacteriaceae family.,CTX-M-15
+dfrA14,0.333633285,ARO:3002859,dfrA14 is an integron-encoded dihydrofolate reductase found in Escherichia coli.,dfrA14
+dfrA12,0.311230687,ARO:3002858,dfrA12 is an integron-encoded dihydrofolate reductase found in Vibrio cholerae.,dfrA12
+OXA-9,0.282499514,ARO:3001404,OXA-9 is a beta-lactamase found in Klebsiella pneumoniae.,OXA-9
+TEM-1,0.23830156,ARO:3000873,TEM-1 is a broad-spectrum beta-lactamase found in many Gram-negative bacteria. Confers resistance to penicillins and first generation cephalosphorins.,TEM-1
+tet(A),0.232826838,ARO:3000165,TetA is a tetracycline efflux pump found in many species of Gram-negative bacteria.,tet(A)
+AAC(6')-Ib10,0.21477801,ARO:3002581,AAC(6')-Ib10 is an integron-encoded aminoglycoside acetyltransferase in P. aeruginosa.,AAC(6')-Ib10
+dfrA1,0.213531116,ARO:3002854,dfrA1 is an integron-encoded dihydrofolate reductase.,dfrA1
+AAC(3)-IIe,0.195165444,ARO:3004621,AAC(3)-IIe is a plasmid-encoded aminoglycoside acetyltransferase in E. coli.,AAC(3)-IIe
+determinant_of_bleomycin_resistance,0.186891082,,,
+sul1,0.178465155,ARO:3000410,Sul1 is a sulfonamide resistant dihydropteroate synthase of Gram-negative bacteria. It is linked to other resistance genes of class 1 integrons.,sul1
+catI,0.173479247,,,
+aadA2,0.164836934,ARO:3002602,"aadA2 is an aminoglycoside nucleotidyltransferase gene encoded by plasmids and integrons in K. pneumoniae, Salmonella spp., Corynebacterium glutamicum, C. freundii and Aeromonas spp.",aadA2
+tet(D),0.164636183,ARO:3000168,TetD is a tetracycline efflux pump found exclusively in Gram-negative bacteria.,tet(D)
+SHV-106,0.160578741,ARO:3001155,SHV-106 is an extended-spectrum beta-lactamase that has been found in clinical isolates.,SHV-106
+FosA5,0.157710409,,,
+QnrB17,0.15327446,ARO:3002732,QnrB17 is a plasmid-mediated quinolone resistance protein found in Citrobacter freundii.,QnrB17
+mphA,0.149965457,ARO:3000316,"The mphA gene encodes for resistance enzyme MPH(2')-I which preferentially inactivate 14-membered macrolides (e.g.erythromycin, telithromycin, roxithromycin) over 16-membered macrolides (e.g.tylosin, spiramycin). It phosphorylates macrolides at 2'-OH hydroxyl of desosamine sugar of macrolides in a GTP-dependent manner.",mphA
+sul2,0.143784782,ARO:3000412,"Sul2 is a sulfonamide resistant dihydropteroate synthase of Gram-negative bacteria, usually found on small plasmids.",sul2
+SHV-134,0.131080755,ARO:3001178,SHV-134 is an extended-spectrum beta-lactamase.,SHV-134
+TEM-122,0.125297342,ARO:3000984,TEM-122 is an inhibitor-resistant beta-lactamase found in E. coli.,TEM-122
+SHV-182,0.114003734,ARO:3001364,"SHV-182 is a beta-lactamase. Name originally from the historical Lahey list of beta-lactamases, some of which did not include sequence data.",SHV-182
+APH(3'')-Ib,0.109489002,ARO:3002639,"APH(3'')-Ib is an aminoglycoside phosphotransferase encoded by plasmids, transposons, integrative conjugative elements and chromosomes in Enterobacteriaceae and Pseudomonas spp.",APH(3'')-Ib
+AAC(6')-Ib-cr,0.100141716,,,
+oqxB,0.098824997,ARO:3003923,RND efflux pump conferring resistance to fluoroquinolone.,oqxB
+APH(6)-Id,0.098596955,ARO:3002660,"APH(6)-Id is an aminoglycoside phosphotransferase encoded by plasmids, integrative conjugative elements and chromosomal genomic islands in K. pneumoniae, Salmonella spp., E. coli, Shigella flexneri, Providencia alcalifaciens, Pseudomonas spp., V. cholerae, Edwardsiella tarda, Pasteurella multocida and Aeromonas bestiarum.",APH(6)-Id
+APH(3')-Ia,0.087309104,ARO:3002641,"APH(3')-Ia is a transposon-encoded aminoglycoside phosphotransferase in E. coli and S. enterica. It is identical at the protein sequence to APH(3')-Ic, an aminoglycoside phosphotransferase encoded by plasmids, transposons and genomic islands in K. pneumoniae, A. baumannii, S. marcescens, Corynebacterium spp., Photobacterium spp. and Citrobacter spp.",APH(3')-Ia
+arr-2,0.067562088,ARO:3002847,arr-2 is an integron-encoded ribosyltransferase found in Pseudomonas aeruginosa.,arr-2
+SHV-187,0.056379064,ARO:3003154,"SHV-187 is a beta-lactamase. Name originally from the historical Lahey list of beta-lactamases, some of which did not include sequence data.",SHV-187
+QnrS1,0.054792887,ARO:3002790,QnrS1 is a plasmid-mediated quinolone resistance protein found in Shigella flexneri.,QnrS1
+armA,0.050540653,ARO:3000858,"ArmA is a 16S rRNA methyltransferase that targets mature or nearly mature 30S subunits. It transfers a methyl group from S-adenosyl-L-methionine to N7-G1405 of the 16S rRNA, an aminoglycoside binding site.",armA
+catII_from_Escherichia_coli_K-12,0.042745982,,,
+ANT(2'')-Ia,0.04205147,ARO:3000230,"Plasmid or integron-encoded nucleotidylylation of 2-deoxystreptamine aminoglycosides at the hydroxyl group at position 2'' in P. aeruginosa, K. pneumoniae, Morganella morganii, E. coli, S. typhimurium, C. freundii and A. baumannii.",ANT(2'')-Ia
+SHV-1,0.041141449,ARO:3001059,"SHV-1 is a broad-spectrum beta-lactamase found in Klebsiella spp., as well as Acinetobacter spp., E. coli., Raoultella terrigena, and Yersinia pestis.",SHV-1
+AAC(3)-IId,0.040340739,ARO:3004623,AAC(3)-IId is a plasmid-encoded aminoglycoside acetyltransferase in E. coli.,AAC(3)-IId
+SHV-110,0.037586511,ARO:3001159,SHV-110 is a beta-lactamase found in Klebsiella pneumoniae.,SHV-110
+oqxA,0.03659418,ARO:3003922,RND efflux pump conferring resistance to fluoroquinolone.,oqxA
+TEM-150,0.031092231,ARO:3001017,"TEM-150 is a beta-lactamase found in Enterobacter spp., E. coli, and Klebsiella pneumoniae.",TEM-150
+sul3,0.030876301,ARO:3000413,Sul3 is a sulfonamide resistant dihydropteroate synthase similar to Sul1 and Sul2. Its resistance gene was found encoded in E. coli plasmid DNA of sulfonamide resistant isolates.,sul3
+FosA6,0.030635911,ARO:3004111,FosA6 is a plasmid-encoded enzyme that confers resistance to fosfomycin in Escherichia coli by breaking the epoxide ring of the molecule.,FosA6
+SHV-76,0.022272799,ARO:3001130,SHV-76 is a broad-spectrum beta-lactamase found in Klebsiella pneumoniae.,SHV-76
+NDM-1,0.021531362,ARO:3000589,NDM-1 is a metallo-beta-lactamase isolated from Klebsiella pneumoniae with nearly complete resistance to all beta-lactam antibiotics.,NDM-1
+mphE,0.019611375,ARO:3003741,"mphE is a macrolide phosphotransferase and resistance gene identified on a plasmid, pRSB105.",mphE
+SHV-11,0.018960129,ARO:3001070,"SHV-11 is a broad-spectrum beta-lactamase found in E. coli, Klebsiella pneumoniae, Proteus mirabilis, and Shigella dysenteriae.",SHV-11
+cmlA1,0.018912891,ARO:3002693,cmlA1 is a plasmid or transposon-encoded chloramphenicol exporter that is found in Pseudomonas aeruginosa and Klebsiella pneumoniae.,cmlA1
+ANT(3'')-IIa,0.014537469,ARO:3004089,ANT(3'')-IIa is a aminoglycoside nucleotidyltransferase identified in Acinetobacter spp. via horizontal gene transfer mechanisms.,ANT(3'')-IIa
+SHV-120,0.012803711,ARO:3001167,SHV-120 is a beta-lactamase that has been found in clinical isolates.,SHV-120
+CTX-M-14,0.010774444,ARO:3001877,CTX-M-14 is a beta-lactamase found in the Enterobacteriaceae family.,CTX-M-14
+dfrA5,0.010348437,ARO:3002861,dfrA5 is an integron-encoded dihydrofolate reductase found in Vibrio cholerae.,dfrA5
+AAC(3)-IV,0.009652838,,,
+catB3,0.00911863,ARO:3002676,"catB3 is a plasmid or chromosome-encoded variant of the cat gene found in Salmonella typhimurium, Acinetobacter baumannii and Escherichia coli.",catB3
+CMY-59,0.008553275,ARO:3002069,CMY-59 is a beta-lactamase found in Shigella spp.,CMY-59
+qacH,0.007583389,ARO:3003836,qacH is a subunit of the qac multidrug efflux pump in Staphylococcus saprophyticus.,qacH
+VEB-5,0.00704604,ARO:3002375,"VEB-5 is a beta-lactamase. Name originally from the historical Lahey list of beta-lactamases, some of which did not include sequence data.",VEB-5
+rmtF,0.006603996,ARO:3002666,RmtF is a 16S rRNA methyltransferase found in Pseudomonas aeruginosa which methylates G1405 of the 16S rRNA. It confers high level resistance to many aminoglycosides.,rmtF
+AAC(6')-Ib7,0.005775736,ARO:3002578,AAC(6')-Ib7 is a plasmid-encoded aminoglycoside acetyltransferase in E. cloacae and C. freundii.,AAC(6')-Ib7
+APH(4)-Ia,0.00410699,ARO:3002655,APH(4)-Ia is a plasmid-encoded aminoglycoside phosphotransferase in E. coli.,APH(4)-Ia
+SAT-1,0.002245839,,,
+ErmB,0.002056297,ARO:3000375,"ErmB confers the MLSb phenotype. Similar to ErmC, expression of ErmB is inducible by erythromycin. The leader peptide causes attenuation of the mRNA and stabilizes the structure preventing further translation. When erythromycin is present, it binds the leader peptide causing a change in conformation allowing for the expression of ErmB.",ErmB
+SHV-33,0.001305074,ARO:3001091,SHV-33 is an broad-spectrum beta-lactamase found in Klebsiella pneumoniae.,SHV-33
+dfrA15,0.00073339,ARO:3003013,dfrA15 is an integron-encoded dihydrofolate reductase found in Vibrio cholerae.,dfrA15
+cmlA4,0.0,ARO:3002694,cmlA4 is a plasmid-encoded chloramphenicol exporter that is found in Klebsiella pneumoniae.,cmlA4
+tet(C),0.0,ARO:3000167,Tet(C) is a tetracycline efflux pump found in many species of Gram-negative bacteria. It is typically found in plasmid DNA.,tet(C)
+SHV-77,0.0,ARO:3001131,SHV-77 is a broad-spectrum beta-lactamase found in Klebsiella pneumoniae and E. coli.,SHV-77
+tet(G),0.0,ARO:3000174,"TetG is a tetracycline efflux protein found in Gram-negative bacteria. The encoding gene is found in both chromosomal and plasmid DNA where it is frequently linked to the floR, sul1, and cmlA9 genes which encode proteins that can confer florfenicol/chloramphenicol, sulfamethoxazole, and chloramphenicol resistance, respectively.",tet(G)
+dfrA23,0.0,ARO:3003019,dfrA23 is an integron-encoded dihydrofolate reductase found in Salmonella enterica.,dfrA23
+SHV-65,0.0,ARO:3001120,SHV-65 is a beta-lactamase found in Klebsiella pneumoniae.,SHV-65
+SHV-60,0.0,ARO:3001115,SHV-60 is a broad-spectrum beta-lactamase found in Klebsiella pneumoniae.,SHV-60
+tet(W/N/W),0.0,ARO:3004442,tet(W/N/W) is a mosaic tetracycline resistance gene and ribosomal protection protein.,tet(W/N/W)
+tetM,0.0,,,
+SHV-52,0.0,ARO:3001109,SHV-52 is a beta-lactamase that has been found in clinical isolates.,SHV-52
+SHV-5,0.0,ARO:3001064,"SHV-5 is an extended-spectrum beta-lactamase found in Acinetobacter baumannii, Enterobacter cloacae, E. coli, Klebsiella pneumoniae, Pseudomonas aeruginosa, and Salmonella enterica.",SHV-5
+dfrA26,0.0,ARO:3002857,dfrA26 is an integron-encoded dihydrofolate reductase found in Escherichia coli.,dfrA26
+dfrA7,0.0,ARO:3002862,dfrA7 is an integron-encoded dihydrofolate reductase found in Escherichia coli.,dfrA7
+SHV-44,0.0,ARO:3001102,SHV-44 is a broad-spectrum beta-lactamase found in Klebsiella pneumoniae.,SHV-44
+dfrA27,0.0,ARO:3004550,"A dihydrofolate reductase and trimethoprim resistance gene from non-O1, non-O139 Vibrio cholerae.",dfrA27
+SHV-42,0.0,ARO:3001100,SHV-42 is an extended-spectrum beta-lactamase found in Klebsiella pneumoniae.,SHV-42
+dfrA30,0.0,ARO:3004552,A dihydrofolate reductase and trimethoprim resistance gene from Klebsiella pneumoniae.,dfrA30
+SHV-36,0.0,ARO:3001094,SHV-36 is a beta-lactamase found in Klebsiella pneumoniae.,SHV-36
+SHV-30,0.0,ARO:3001088,SHV-30 is an extended-spectrum beta-lactamase found in Enterobacter cloacae.,SHV-30
+SHV-27,0.0,ARO:3001085,SHV-27 is an extended-spectrum beta-lactamase found in Klebsiella pneumoniae.,SHV-27
+SHV-26,0.0,ARO:3001084,SHV-26 is an inhibitor-resistant beta-lactamase found in Klebsiella pneumoniae.,SHV-26
+SHV-2,0.0,ARO:3001060,"SHV-2 is an extended-spectrum beta-lactamase found in E. coli., Klebsiella pneumoniae, and Shigella flexneri.",SHV-2
+SHV-86,0.0,ARO:3001140,SHV-86 is an extended-spectrum beta-lactamase that has been found in clinical isolates.,SHV-86
+TEM-12,0.0,ARO:3000884,TEM-12 is an extended-spectrum beta-lactamase found in Klebsiella oxytoca.,TEM-12
+TEM-104,0.0,ARO:3000967,TEM-104 is a beta-lactamase found in Klebsiella pneumoniae.,TEM-104
+VIM-27,0.0,ARO:3002297,VIM-27 is a beta-lactamase found in Klebsiella pneumoniae.,VIM-27
+msrE,0.0,ARO:3003109,MsrE is an ABC-F subfamily protein expressed to Klebsiella pneumoniae that confers resistance to erythromycin and streptogramin B antibiotics. It is associated with plasmid DNA. It is also 100% identical to ABC-F type ribosomal protection protein Msr(E) which is in multiple species.,msrE
+floR,0.0,ARO:3002705,"floR is a plasmid or chromosome-encoded chloramphenicol exporter that is found in Bordetella bronchiseptica, Escherichia coli, Klebsiella pneumoniae, Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 and Vibrio cholerae.",floR
+catB11,0.0,ARO:3004660,catB11 is a chloramphenicol acetyltransferase that confers resistance to chloramphenicol.,catB11
+arr-3,0.0,ARO:3002848,arr-3 is a plasmid-encoded ribosyltransferase found in Vibrio fluvialis.,arr-3
+dfrA17,0.0,ARO:3002860,dfrA17 is an integron-encoded dihydrofolate reductase found in Escherichia coli.,dfrA17
+rmtB,0.0,ARO:3000860,"RmtB is a 16S rRNA methyltransferase that targets mature or nearly mature 30S subunits. It transfers a methyl group from S-adenosyl-L-methionine to N7-G1405 of the 16S rRNA, an aminoglycoside binding site.",rmtB
+rmtC,0.0,ARO:3000861,"RmtC is a rRNA methyltransferase found in Proteus mirabilis with high level resistance to similar to aminoglycosides, with the exception of non-4,6-disubstituted deoxystreptamines (streptomycin and neomycin). It has also been isolated in Salmonella enterica ser. Virchow. It is hypothesized to methylate G1405, like related methyltransferases RmtA, RmtB, and ArmA.",rmtC
+aadA5,0.0,ARO:3002605,"aadA5 is an aminoglycoside nucleotidyltransferase gene encoded by plasmids, transposons and integrons in E. coli, K. pneumoniae, Kluyvera georgiana, P. aeruginosa and E. cloacae.",aadA5
+aadA16,0.0,ARO:3002616,"aadA16 is an aminoglycoside nucleotidyltransferase gene encoded by plasmids and integrons in E. coli, V. cholerae and K. pneumoniae.",aadA16
+aadA13,0.0,ARO:3002613,"aadA13 is an aminoglycoside nucleotidyltransferase gene encoded by plasmids and integrons in Pseudomonas rettgeri, P. aeruginosa, Y. enterocolitica and E. coli.",aadA13
+VIM-19,0.0,ARO:3002289,VIM-19 is a beta-lactamase found in the Enterobacteriaceae family.,VIM-19
+cmlA5,0.0,ARO:3002695,cmlA5 is a plasmid or transposon-encoded chloramphenicol exporter that is found in Escherichia coli.,cmlA5
+dfrA19,0.0,ARO:3003015,dfrA19 is an integron-encoded dihydrofolate reductase found in Klebsiella pneumoniae.,dfrA19
+VEB-1,0.0,ARO:3002370,VEB-1 is a beta-lactamase found in Escherichia coli and Pseudomonas aeruginosa.,VEB-1
+TEM-79,0.0,ARO:3000946,TEM-79 is an inhibitor-resistant beta-lactamase found in E. coli.,TEM-79
+TEM-206,0.0,ARO:3001383,"TEM-206 is a beta-lactamase. Name originally from the historical Lahey list of beta-lactamases, some of which did not include sequence data.",TEM-206
+TEM-158,0.0,ARO:3001024,"TEM-158 is an inhibitor-resistant, extended-spectrum beta-lactamase found in E. coli.",TEM-158
+dfrA22,0.0,ARO:3003018,dfrA22 is an integron-encoded dihydrofolate reductase found in Salmonella enterica.,dfrA22
+dfrB3,0.0,ARO:3003022,dfrB3 is an integron-encoded dihydrofolate reductase found in Klebsiella oxytoca.,dfrB3
+TEM-15,0.0,ARO:3000886,TEM-15 is an extended-spectrum beta-lactamase that has been found in Haemophilus parainfluenzae.,TEM-15
+dfrA8,0.0,ARO:3002863,dfrA8 is a transposon-encoded dihydrofolate reductase found in Salmonella enterica.,dfrA8
+tet(B),0.0,ARO:3000166,"Tet(B) is a tetracycline efflux protein expressed in many Gram-negative bacteria. It confers resistance to tetracycline, doxycycline, and minocycline, but not tigecycline.",tet(B)
+cmlA6,0.0,ARO:3002696,cmlA6 is a plasmid-encoded chloramphenicol exporter that is found in Pseudomonas aeruginosa.,cmlA6
+SHV-107,0.0,ARO:3001156,SHV-107 is an inhibitor-resistant beta-lactamase found in Klebsiella pneumoniae.,SHV-107
+SHV-185,0.0,ARO:3003152,"SHV-185 is a beta-lactamase. Name originally from the historical Lahey list of beta-lactamases, some of which did not include sequence data.",SHV-185
+LEN-18,0.0,ARO:3002465,LEN-18 is a beta-lactamase found in Klebsiella pneumoniae.,LEN-18
+CTX-M-98,0.0,ARO:3001957,CTX-M-98 is a beta-lactamase found in Escherichia coli.,CTX-M-98
+DHA-1,0.0,ARO:3002132,DHA-1 is a class C beta-lactamase found in Morganella morganii and Salmonella enterica.,DHA-1
+DHA-6,0.0,ARO:3002135,DHA-6 is a beta-lactamase found in the Enterobacteriaceae family.,DHA-6
+EreA2,0.0,ARO:3002826,EreA2 is an integron-encoded erythromycin esterase that hydrolyses the drug's lactone ring. EreA2 is found in Providencia stuartii.,EreA2
+FOX-5,0.0,ARO:3002159,FOX-5 is a beta-lactamase found in Klebsiella pneumoniae.,FOX-5
+FosA3,0.0,ARO:3002872,An enzyme that confers resistance to fosfomycin in Escherichia coli by breaking the epoxide ring of the molecule. It depends on the cofactors Manganese (II) and Potassium and uses Glutathione (GSH) as the nucleophilic molecule.,FosA3
+FosA7,0.0,ARO:3004113,FosA7 is an enzyme that confers resistance to fosfomycin in Escherichia coli by breaking the epoxide ring of the molecule.,FosA7
+IMP-14,0.0,ARO:3002205,IMP-14 is a beta-lactamase found in Pseudomonas and Acinetobacter spp.,IMP-14
+KPC-8,0.0,ARO:3002318,KPC-8 is a beta-lactamase found in Klebsiella pneumoniae.,KPC-8
+Klebsiella_pneumoniae_KpnE,0.0,,,
+Klebsiella_pneumoniae_KpnF,0.0,,,
+Klebsiella_pneumoniae_KpnG,0.0,,,
+Klebsiella_pneumoniae_OmpK37,0.0,,,
+Klebsiella_pneumoniae_acrA,0.0,,,
+LAP-2,0.0,ARO:3004826,LAP-2 is an Ambler Class A beta-lactamase gene.,LAP-2
+LEN-10,0.0,ARO:3002460,LEN-10 is a beta-lactamase found in Klebsiella pneumoniae.,LEN-10
+LEN-16,0.0,ARO:3002464,LEN-16 is a beta-lactamase found in Klebsiella pneumoniae.,LEN-16
+CTX-M-9,0.0,ARO:3001872,CTX-M-9 is a beta-lactamase found in the Enterobacteriaceae family.,CTX-M-9
+CTX-M-65,0.0,ARO:3001926,CTX-M-65 is a beta-lactamase found in Escherichia coli.,CTX-M-65
+CTX-M-3,0.0,ARO:3001866,CTX-M-3 is a beta-lactamase found in Citrobacter freundii.,CTX-M-3
+AAC(6')-Im,0.0,ARO:3004629,"AAC(6')-Im is an aminoglycoside acetyltransferase encoded by plasmids in E. coli, and E. faecium.",AAC(6')-Im
+AAC(3)-Ia,0.0,ARO:3002528,"AAC(3)-Ia is an aminoglycoside acetyltransferase encoded by plasmids, transposons, integrons in S. marcescens, E. coli, Acinetobacter baumannii, Klebsiella pneumoniae, Klebsiella oxytoca, P. aeruginosa, Salmonella typhimurium and Proteus mirabilis.",AAC(3)-Ia
+AAC(6')-29a,0.0,ARO:3002583,AAC(6')-29a is an integron-encoded aminoglycoside acetyltransferase in P. aeruginosa.,AAC(6')-29a
+AAC(6')-33,0.0,,,
+AAC(6')-IIa,0.0,ARO:3002594,AAC(6')-IIa is an aminoglycoside acetyltransferase encoded by plasmids and integrons in P. aeruginosa and S. enterica.,AAC(6')-IIa
+AAC(6')-IIc,0.0,ARO:3002596,AAC(6')-IIc is an aminoglycoside acetyltransferase encoded by plasmids and integrons in E. cloacae.,AAC(6')-IIc
+AAC(6')-Ib9,0.0,ARO:3002580,AAC(6')-Ib9 is an integron-encoded aminoglycoside acetyltransferase in P. aeruginosa.,AAC(6')-Ib9
+AAC(6')-Il,0.0,ARO:3004635,AAC(6')-Il is an aminoglycoside acetyltransferase encoded by plasmids and integrons in Enterobacter cloaecae and Klebsiella aerogenes.,AAC(6')-Il
+APH(2'')-IIa,0.0,ARO:3002635,APH(2'')-IIa is a chromosomal-encoded aminoglycoside phosphotransferase in E. faecium and E. coli.,APH(2'')-IIa
+CTX-M-27,0.0,ARO:3001889,CTX-M-27 is a beta-lactamase found in Escherichia coli.,CTX-M-27
+APH(3')-VI,0.0,,,
+APH(3')-VIa,0.0,ARO:3002652,APH(3')-VIa is a plasmid-encoded aminoglycoside phosphotransferase in A. baumannii.,APH(3')-VIa
+BKC-1,0.0,ARO:3004757,BKC-1 is a beta-lactamase conferring resistance to carbapenem and is found in Brazilian Klebsiella.,BKC-1
+CARB-3,0.0,ARO:3002242,CARB-3 is a beta-lactamase found in Pseudomonas aeruginosa.,CARB-3
+CTX-M-1,0.0,ARO:3001864,CTX-M-1 is a beta-lactamase found in the Enterobacteriaceae family.,CTX-M-1
+CTX-M-101,0.0,ARO:3001960,"CTX-M-101 is a beta-lactamase. Name originally from the historical Lahey list of beta-lactamases, some of which did not include sequence data.",CTX-M-101
+CTX-M-2,0.0,ARO:3001865,CTX-M-2 is a beta-lactamase found in the Enterobacteriaceae family.,CTX-M-2
+LEN-17,0.0,ARO:3002473,LEN-17 is a beta-lactamase found in Escherichia coli.,LEN-17
+LEN-2,0.0,ARO:3002455,LEN-2 is a beta-lactamase found in Klebsiella pneumoniae.,LEN-2
+SHV-178,0.0,ARO:3001361,"SHV-178 is a beta-lactamase. Name originally from the historical Lahey list of beta-lactamases, some of which did not include sequence data.",SHV-178
+LEN-26,0.0,ARO:3002474,LEN-26 is a beta-lactamase found in Escherichia coli and Klebsiella pneumoniae.,LEN-26
+QnrB20,0.0,ARO:3002735,QnrB20 is a plasmid-mediated quinolone resistance protein found in Escherichia coli.,QnrB20
+QnrB4,0.0,ARO:3002718,QnrB4 is a plasmid-mediated quinolone resistance protein found in Escherichia coli.,QnrB4
+QnrB5,0.0,ARO:3002719,QnrB5 is a plasmid-mediated quinolone resistance protein found in Salmonella enterica.,QnrB5
+QnrB58,0.0,ARO:3002771,QnrB58 is a plasmid-mediated quinolone resistance protein found in Citrobacter freundii.,QnrB58
+SCO-1,0.0,ARO:3004856,"Narrow-spectrum beta-lactamase isolated from several Acinetobacter spp. isolates from Argentina, as well as E. Coli. Hydrolyzes penicillins at a high level and cephalosporins and carbapenems at a very low level.",SCO-1
+SHV-100,0.0,ARO:3001338,SHV-100 is a beta-lactamase found in Klebsiella pneumoniae. It differs from SHV-1 by a 35SESQLSGRVGMIE36 insertion.,SHV-100
+SHV-101,0.0,ARO:3001150,SHV-101 is a beta-lactamase found in Klebsiella pneumoniae.,SHV-101
+SHV-105,0.0,ARO:3001154,SHV-105 is an extended-spectrum beta-lactamase found in Klebsiella pneumoniae.,SHV-105
+SHV-108,0.0,ARO:3001157,SHV-108 is a beta-lactamase found in Klebsiella pneumoniae.,SHV-108
+SHV-119,0.0,ARO:3001340,"SHV-119 is a beta-lactamase. Name originally from the historical Lahey list of beta-lactamases, some of which did not include sequence data.",SHV-119
+SHV-12,0.0,ARO:3001071,SHV-12 is an extended-spectrum beta-lactamase found in Acinetobacter baumannii.,SHV-12
+SHV-121,0.0,ARO:3001168,SHV-121 is a beta-lactamase that has been found in clinical isolates. Identical to SHV-136.,SHV-121
+SHV-142,0.0,ARO:3001184,SHV-142 is a beta-lactamase.,SHV-142
+SHV-143,0.0,ARO:3001344,"SHV-143 is a beta-lactamase. Name originally from the historical Lahey list of beta-lactamases, some of which did not include sequence data.",SHV-143
+SHV-155,0.0,ARO:3001194,SHV-155 is a beta-lactamase.,SHV-155
+SHV-161,0.0,ARO:3001200,SHV-161 is a beta-lactamase.,SHV-161
+SHV-172,0.0,ARO:3001356,"SHV-172 is a beta-lactamase. Name originally from the historical Lahey list of beta-lactamases, some of which did not include sequence data.",SHV-172
+QnrA7,0.0,ARO:3002713,QnrA7 is a plasmid-mediated quinolone resistance protein found in Shewanella algae.,QnrA7
+QnrA1,0.0,ARO:3002707,QnrA1 is a plasmid-mediated quinolone resistance protein found in Klebsiella pneumoniae.,QnrA1
+OXA-48,0.0,ARO:3001782,OXA-48 is a beta-lactamase found in Klebsiella pneumoniae.,OXA-48
+OKP-A-7,0.0,ARO:3002424,OKP-A-7 is a beta-lactamase found in Klebsiella pneumoniae.,OKP-A-7
+LEN-30,0.0,ARO:3004838,A class-A beta-lactamase from Klebsiella pneumoniae.,LEN-30
+LEN-55,0.0,ARO:3004848,A class-A broad-spectrum beta-lactamase from Klebsiella.,LEN-55
+LEN-9,0.0,ARO:3002459,LEN-9 is a beta-lactamase found in Klebsiella pneumoniae.,LEN-9
+MCR-9,0.0,,,
+NDM-5,0.0,ARO:3000467,New Delhi beta-lactamase NDM-5.,NDM-5
+OKP-A-3,0.0,ARO:3002420,OKP-A-3 is a beta-lactamase found in Klebsiella pneumoniae.,OKP-A-3
+OKP-A-5,0.0,ARO:3002422,OKP-A-5 is a beta-lactamase found in Klebsiella pneumoniae.,OKP-A-5
+OKP-B-19,0.0,ARO:3002452,OKP-B-19 is a beta-lactamase found in Klebsiella pneumoniae.,OKP-B-19
+OXA-232,0.0,ARO:3001778,OXA-232 is a beta-lactamase found in Enterobacteriaceae.,OXA-232
+OKP-B-3,0.0,ARO:3002436,OKP-B-3 is a beta-lactamase found in Klebsiella pneumoniae.,OKP-B-3
+OKP-B-5,0.0,ARO:3002438,OKP-B-5 is a beta-lactamase found in Klebsiella pneumoniae.,OKP-B-5
+OKP-B-6,0.0,ARO:3002439,OKP-B-6 is a beta-lactamase found in Klebsiella pneumoniae.,OKP-B-6
+OKP-B-8,0.0,ARO:3002441,OKP-B-8 is a beta-lactamase found in Klebsiella pneumoniae.,OKP-B-8
+OXA-10,0.0,ARO:3001405,OXA-10 is a beta-lactamase found in Acinetobacter baumannii and P. aeruginosa.,OXA-10
+OXA-181,0.0,ARO:3001784,OXA-181 is a beta-lactamase found in Klebsiella pneumoniae.,OXA-181
+OXA-2,0.0,ARO:3001397,OXA-2 is a beta-lactamase found in the Enterobacteriaceae family.,OXA-2
+tetW,0.0,,,
